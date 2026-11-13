@@ -1,7 +1,7 @@
 {
- "versionCode": 2,
- "versionName": "0.2.0-beta",
- "apkUrl": "https://parkgolface-dev.github.io/kick-challenger-beta/kick-challenger-beta-0.2.0-beta.apk",
- "sha256": "05b0f9cd22978070f6d9c9ae78f1c6535e495039c85823af065cc059c89e2dca",
- "notes": "코드푸시·앱 안 업데이트, 큰 글씨·버튼, 발 높이 게이지"
+ "versionCode": 3,
+ "versionName": "0.3.0-beta",
+ "apkUrl": "https://parkgolface-dev.github.io/kick-challenger-beta/kick-challenger-beta-0.3.0-beta.apk",
+ "sha256": "7690d470a7266a5380f8e23c5721a9121b348e8ca8ad3a744f9e0ed7838aaad5",
+ "notes": "앱이 꺼져 있어도 업데이트 소식이 나오면 휴대폰 알림(15분 안팎 주기 확인), 측정 화면 영상 폰 전체·반투명 UI, 업데이트 소식 화면"
 }
