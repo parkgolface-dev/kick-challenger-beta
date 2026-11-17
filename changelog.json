@@ -1,5 +1,13 @@
 [
  {
+  "versionCode": 602,
+  "versionName": "0.6.0-beta · 패치 2",
+  "date": "2026-11-17",
+  "notes": [
+   "인정 높이를 키의 %로만 표시(유효 기준 키의 N%)"
+  ]
+ },
+ {
   "versionCode": 601,
   "versionName": "0.6.0-beta · 패치 1",
   "date": "2026-11-17",
