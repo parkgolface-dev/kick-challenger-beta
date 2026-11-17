@@ -1,7 +1,7 @@
 {
- "versionCode": 4,
- "versionName": "0.4.0-beta",
- "apkUrl": "https://parkgolface-dev.github.io/kick-challenger-beta/kick-challenger-beta-0.4.0-beta.apk",
- "sha256": "4e8f6c69b907dfd25c820d4fceceedc0488f0140f614738f41fb7fb00a5b2aa8",
- "notes": "발차기 인식 보강: 프레임이 적은 폰에서 빠른 발차기 높이가 낮게 잡히던 것 고침,차는 도중 왼발·오른발이 뒤바뀌어 잡혀도 한 번으로 셈(한 발 측정 때 놓치던 것),정점 부근에서 발목이 잠깐 흐려도 뒤꿈치·앞뒤 궤적으로 높이를 메움"
+ "versionCode": 5,
+ "versionName": "0.5.0-beta",
+ "apkUrl": "https://parkgolface-dev.github.io/kick-challenger-beta/kick-challenger-beta-0.5.0-beta.apk",
+ "sha256": "5bf7f5ad2170188383fb2d897393ca40d9eb9bb7f23b85556f7869656f16e128",
+ "notes": "카메라 프레임을 이 폰이 낼 수 있는 최상치로(어두운 실내에서 프레임이 떨어지는 것도 막음),프레임이 낮으면(3초 평균 20fps 미만) 측정 화면에 경고 띠,결과에 평균 fps와 낮음 표시,개발 지표에 카메라 프레임 상한"
 }
