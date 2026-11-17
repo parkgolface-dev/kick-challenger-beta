@@ -1,7 +1,7 @@
 {
- "versionCode": 5,
- "versionName": "0.5.0-beta",
- "apkUrl": "https://parkgolface-dev.github.io/kick-challenger-beta/kick-challenger-beta-0.5.0-beta.apk",
- "sha256": "5bf7f5ad2170188383fb2d897393ca40d9eb9bb7f23b85556f7869656f16e128",
- "notes": "카메라 프레임을 이 폰이 낼 수 있는 최상치로(어두운 실내에서 프레임이 떨어지는 것도 막음),프레임이 낮으면(3초 평균 20fps 미만) 측정 화면에 경고 띠,결과에 평균 fps와 낮음 표시,개발 지표에 카메라 프레임 상한"
+ "versionCode": 6,
+ "versionName": "0.6.0-beta",
+ "apkUrl": "https://parkgolface-dev.github.io/kick-challenger-beta/kick-challenger-beta-0.6.0-beta.apk",
+ "sha256": "adc208320c06cec77dcb0b731979b0531381f0b385f3aa9fab95f1298b42b471",
+ "notes": "영상 녹화를 켬(측정 조건에서 켜고 끌 수 있음),기록에서 영상 보기(골격·판정 표시·느린 재생),발을 다 내리지 않고 이어 찬 발차기는 1회로(연속차기 도전만 따로 셈)"
 }
