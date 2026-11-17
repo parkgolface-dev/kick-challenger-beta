@@ -1,5 +1,13 @@
 [
  {
+  "versionCode": 601,
+  "versionName": "0.6.0-beta · 패치 1",
+  "date": "2026-11-17",
+  "notes": [
+   "발차기 인정 높이를 첫 화면에서 키의 1%씩 올리거나 내릴 수 있음(기본 키의 55%)"
+  ]
+ },
+ {
   "versionCode": 600,
   "versionName": "0.6.0-beta",
   "date": "2026-11-17",
