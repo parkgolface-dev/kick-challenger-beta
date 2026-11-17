@@ -1,5 +1,13 @@
 [
  {
+  "versionCode": 603,
+  "versionName": "0.6.0-beta · 패치 3",
+  "date": "2026-11-17",
+  "notes": [
+   "측정 단추를 누르면 발차기 인정 높이를 먼저 고르고 시작"
+  ]
+ },
+ {
   "versionCode": 602,
   "versionName": "0.6.0-beta · 패치 2",
   "date": "2026-11-17",
