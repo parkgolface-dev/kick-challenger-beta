@@ -1,5 +1,13 @@
 [
  {
+  "versionCode": 801,
+  "versionName": "0.8.0-beta · 패치 1",
+  "date": "2026-11-18",
+  "notes": [
+   "좌우가 자동으로 맞아 「좌우」 버튼을 없앴습니다"
+  ]
+ },
+ {
   "versionCode": 800,
   "versionName": "0.8.0-beta",
   "date": "2026-11-18",
