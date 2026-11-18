@@ -1,5 +1,13 @@
 [
  {
+  "versionCode": 800,
+  "versionName": "0.8.0-beta",
+  "date": "2026-11-18",
+  "notes": [
+   "셀카 화면이 골격과 좌우가 늘 맞게(분석 그림을 그대로 화면에)"
+  ]
+ },
+ {
   "versionCode": 700,
   "versionName": "0.7.0-beta",
   "date": "2026-11-17",
