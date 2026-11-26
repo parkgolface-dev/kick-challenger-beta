@@ -1,5 +1,13 @@
 [
  {
+  "versionCode": 1004,
+  "versionName": "0.10.0-beta · 패치 4",
+  "date": "2026-11-27",
+  "notes": [
+   "센서 시험 화면 설명 바로잡기(WitMotion 센서는 높이도 센서가 잰다)"
+  ]
+ },
+ {
   "versionCode": 1003,
   "versionName": "0.10.0-beta · 패치 3",
   "date": "2026-11-27",
