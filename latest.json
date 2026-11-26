@@ -1,7 +1,7 @@
 {
- "versionCode": 8,
- "versionName": "0.8.0-beta",
- "apkUrl": "https://parkgolface-dev.github.io/kick-challenger-beta/kick-challenger-beta-0.8.0-beta.apk",
- "sha256": "395411b3f511fb0a3e71132205698945dc66f579ad4f5b62d866c30aa9b90ed3",
- "notes": "셀카 화면이 골격과 좌우가 늘 맞게(분석 그림을 그대로 화면에)"
+ "versionCode": 9,
+ "versionName": "0.9.0-beta",
+ "apkUrl": "https://parkgolface-dev.github.io/kick-challenger-beta/kick-challenger-beta-0.9.0-beta.apk",
+ "sha256": "6444cddd5d4e30e33de86b8db0e4b9ca7f20139f8addffdab15871fa8fe7c88a",
+ "notes": "센서 시험에서 WitMotion 센서(WT9011DCL) 연결 — 200Hz 수신·흔들림·포화·배터리 표시, 발등 판정, 원시 기록 저장"
 }

@@ -1,5 +1,15 @@
 [
  {
+  "versionCode": 900,
+  "versionName": "0.9.0-beta",
+  "date": "2026-11-26",
+  "notes": [
+   "센서 시험에서 WitMotion 센서(WT9011DCL) 연결 — 200Hz 수신·흔들림·포화·배터리 표시",
+   "발등 판정",
+   "원시 기록 저장"
+  ]
+ },
+ {
   "versionCode": 801,
   "versionName": "0.8.0-beta · 패치 1",
   "date": "2026-11-18",
