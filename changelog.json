@@ -1,5 +1,13 @@
 [
  {
+  "versionCode": 1001,
+  "versionName": "0.10.0-beta · 패치 1",
+  "date": "2026-11-27",
+  "notes": [
+   "센서 시험 화면에 한 번에 몰려 온 수(묶음)와 알림당 샘플 수 표시"
+  ]
+ },
+ {
   "versionCode": 1000,
   "versionName": "0.10.0-beta",
   "date": "2026-11-27",
