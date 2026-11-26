@@ -1,5 +1,14 @@
 [
  {
+  "versionCode": 901,
+  "versionName": "0.9.0-beta · 패치 1",
+  "date": "2026-11-26",
+  "notes": [
+   "센서 기록에 수신 시각·알림 번호·샘플 순번 추가(kick.imu/0.2)",
+   "센서 수신 품질을 묶음 기준으로(흔들림·P95·묶음 크기)"
+  ]
+ },
+ {
   "versionCode": 900,
   "versionName": "0.9.0-beta",
   "date": "2026-11-26",
