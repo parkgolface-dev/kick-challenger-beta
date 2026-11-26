@@ -1,5 +1,13 @@
 [
  {
+  "versionCode": 1002,
+  "versionName": "0.10.0-beta · 패치 2",
+  "date": "2026-11-27",
+  "notes": [
+   "센서 시험 화면에 센서 주소 표시"
+  ]
+ },
+ {
   "versionCode": 1001,
   "versionName": "0.10.0-beta · 패치 1",
   "date": "2026-11-27",
