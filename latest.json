@@ -1,7 +1,7 @@
 {
- "versionCode": 9,
- "versionName": "0.9.0-beta",
- "apkUrl": "https://parkgolface-dev.github.io/kick-challenger-beta/kick-challenger-beta-0.9.0-beta.apk",
- "sha256": "6444cddd5d4e30e33de86b8db0e4b9ca7f20139f8addffdab15871fa8fe7c88a",
- "notes": "센서 시험에서 WitMotion 센서(WT9011DCL) 연결 — 200Hz 수신·흔들림·포화·배터리 표시, 발등 판정, 원시 기록 저장"
+ "versionCode": 10,
+ "versionName": "0.10.0-beta",
+ "apkUrl": "https://parkgolface-dev.github.io/kick-challenger-beta/kick-challenger-beta-0.10.0-beta.apk",
+ "sha256": "8b8963fcbeb07820c0d91040244550a31140300d75833b15e5ff9befc43998d7",
+ "notes": "센서 수신을 200Hz에 가깝게(연결 간격을 짧게 다시 요청),센서 시험 화면에 연결 간격 표시,센서 배터리·설정 주기 표시와 기록 정확도 개선(패치 7·8 포함)"
 }
