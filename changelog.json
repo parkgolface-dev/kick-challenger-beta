@@ -1,5 +1,14 @@
 [
  {
+  "versionCode": 905,
+  "versionName": "0.9.0-beta · 패치 5",
+  "date": "2026-11-27",
+  "notes": [
+   "센서로 잰 측정에 차기별 센서 판정 기록(sensor-events.jsonl)을 함께 남깁니다",
+   "카메라 기록과 센서 기록의 시각을 맞추는 정보(sync.json)를 함께 남깁니다 — 기록 내보내기에 포함"
+  ]
+ },
+ {
   "versionCode": 904,
   "versionName": "0.9.0-beta · 패치 4",
   "date": "2026-11-27",
