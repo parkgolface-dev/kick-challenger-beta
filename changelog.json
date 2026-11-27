@@ -1,5 +1,13 @@
 [
  {
+  "versionCode": 1011,
+  "versionName": "0.10.0-beta · 패치 11",
+  "date": "2026-11-27",
+  "notes": [
+   "센서 시험 결과 번호 표기 다듬기"
+  ]
+ },
+ {
   "versionCode": 1010,
   "versionName": "0.10.0-beta · 패치 10",
   "date": "2026-11-27",
