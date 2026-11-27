@@ -1,5 +1,13 @@
 [
  {
+  "versionCode": 1008,
+  "versionName": "0.10.0-beta · 패치 8",
+  "date": "2026-11-27",
+  "notes": [
+   "200Hz로 받은 센서 값의 시각을 더 고르게 나눠 높이 계산 정확도 개선"
+  ]
+ },
+ {
   "versionCode": 1007,
   "versionName": "0.10.0-beta · 패치 7",
   "date": "2026-11-27",
