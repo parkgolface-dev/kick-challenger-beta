@@ -1,5 +1,13 @@
 [
  {
+  "versionCode": 1014,
+  "versionName": "0.10.0-beta · 패치 14",
+  "date": "2026-11-27",
+  "notes": [
+   "센서 맞추기 3·2·1 동안 회전 센서 영점과 기울기를 자동으로 맞춤"
+  ]
+ },
+ {
   "versionCode": 1013,
   "versionName": "0.10.0-beta · 패치 13",
   "date": "2026-11-27",
